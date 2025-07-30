@@ -1,7 +1,7 @@
 body{
     background-image: url('assets/img/background-img.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover%;
     background-position: center;
     font-family: monospace;
     color: #111;
@@ -19,7 +19,7 @@ h1 {
 
 #game{
     width: 100%;
-    max-width: 800px;
+    max-width: 900px;
     aspect-ratio: 1 / 1;
     background-color: #a1a98a;
     border: 4px solid #333;
