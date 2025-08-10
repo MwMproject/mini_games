@@ -67,3 +67,14 @@ h1 {
     color: black;
     font-weight: bold;
 }
+
+#reset_btn{
+    #reset_btn {
+    display: none;
+    margin-top: 15px;
+    padding: 8px 15px;
+    font-size: 32px;
+    cursor: pointer;
+}
+}
+
